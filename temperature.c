@@ -13,7 +13,7 @@ int main()
     float f, c;
     printf("Please Enter fahrenheit\n");
     scanf("%f" , &f);
-    c-0.55*(f-32);
+    c=0.55*(f-32);
 
     printf("the configrade is :%f\n", c);
     getch();
