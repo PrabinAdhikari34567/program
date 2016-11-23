@@ -15,7 +15,7 @@ int main()
     scanf("%f" , &f);
     c=0.55*(f-32);
 
-    printf("the configrade is :%f\n", c);
+    printf("the centigrade is :%f\n", c);
     getch();
     return(0);
 
