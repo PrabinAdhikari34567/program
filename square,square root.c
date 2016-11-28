@@ -18,7 +18,7 @@ int main()
 
     square=pow(a,2);
     sr=pow(a,0.5);
-    sr=pow(a,0.5);
+    sr=sqrt(a);
 
     printf("Square of;%f\n", square);
     printf("Square root is %f", sr);
